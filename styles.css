@@ -3,30 +3,19 @@ body{
 	background-color: rgb(204, 204, 204);
 }
 
-h1{
+h1, h2, h3{
 	text-align: center;
-}
-
-a{
-	text-decoration-line: none;
 }
 
 ul{
 	list-style-type: none;
 }
 
-h2{
-	text-align: center:
+a{
+	text-decoration-line: none;
 }
-
-.player_one{
-	background-color: rgb(255, 255, 255); padding; border-radius;
-}
-
-h3{
-	text-align: center;
-}
-
-.player_two{
-	background-color: rgb(255, 255, 255); padding; border-radius;
+.player_one, .player_two{
+	background-color: rgb(255, 255, 255);
+	padding: 10px; 
+	border-radius: 10px;
 }
